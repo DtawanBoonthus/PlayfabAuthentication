@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DevAccountEmail: Dtawan.arunsawad@gmail.com
   DevAccountToken: qrrt7ishakaaa9gtednxah4heqd3o6brkunuwdqneyxwz1qmgwjfa1s8jr9xgz18aagggzx7ndca5ua8y4c61qgottwsr3raaz8e657z18cr8z4ebrkcipmsz1h6wzhb8r9qxjgbdoqsfcnphq65rqkiy5xtkgm5zr74qqkwkw7hbmu35ym15ssrefy1jxedzgf934cf
-  SelectedStudio: 
+  SelectedStudio: buntadGame
   SdkPath: Assets/PlayFabSDK
   EdExPath: 
   LocalCloudScriptPath: 
   PanelIsShown: 0
-  curMainMenuIdx: 0
+  curMainMenuIdx: 1
   curSubMenuIdx: 0
